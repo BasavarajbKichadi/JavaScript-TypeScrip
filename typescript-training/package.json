@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "node": "^22.22.1",
+    "ts": "^0.2.2",
+    "typescript": "^5.9.3"
+  }
+}
